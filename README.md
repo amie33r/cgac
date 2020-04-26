@@ -1,6 +1,9 @@
-<p align="center"><img src="https://raw.githubusercontent.com/biplobsd/Google-Colab-CloudTorrent/master/src/cover.png" alt="cover"></p>
+https://colab.research.google.com/github/beiona/Google-Colab-CloudTorrent/blob/master/torrentTOmega_gdrive.ipynb
+<center><a href="https://colab.research.google.com/github/beiona/Google-Colab-CloudTorrent/blob/master/torrentTOmega_gdrive.ipynb"><img src='https://raw.githubusercontent.com/beiona/pic/master/Sound!%20Euphonium/Yoroizuka%20Mizore.jpg' height="70" alt="Open"/></a></center>
 
-![preview](https://raw.githubusercontent.com/biplobsd/Google-Colab-CloudTorrent/master/src/preview.gif)
+<p align="center"><img src="https://raw.githubusercontent.com/beiona/Google-Colab-CloudTorrent/master/src/cover.png"></p>
+
+![preview](https://raw.githubusercontent.com/beiona/Google-Colab-CloudTorrent/master/src/preview.gif)
 
 # Google-Colab-CloudTorrent <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbiplobsd%2FGoogle-Colab-CloudTorrent" alt="Hits">
 
