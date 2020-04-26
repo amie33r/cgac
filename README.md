@@ -1,6 +1,3 @@
-https://colab.research.google.com/github/beiona/Google-Colab-CloudTorrent/blob/master/torrentTOmega_gdrive.ipynb
-<center><a href="https://colab.research.google.com/github/beiona/Google-Colab-CloudTorrent/blob/master/torrentTOmega_gdrive.ipynb"><img src='https://raw.githubusercontent.com/beiona/pic/master/Sound!%20Euphonium/Yoroizuka%20Mizore.jpg' height="70" alt="Open"/></a></center>
-
 <p align="center"><img src="https://raw.githubusercontent.com/beiona/Google-Colab-CloudTorrent/master/src/cover.png"></p>
 
 ![preview](https://raw.githubusercontent.com/beiona/Google-Colab-CloudTorrent/master/src/preview.gif)
@@ -20,3 +17,7 @@ Ssh, noVnc, filebrowser, µTorrent, Transmission Web Control, SocialFish, L3MON,
 
 ### Our telegram group
 <center><a href="https://t.me/torrentToGM"><img src='https://i.imgur.com/CLg6blO.png' height="70" alt="Telegram Group"/></a></center>
+
+
+
+<center><a href="https://colab.research.google.com/github/beiona/Google-Colab-CloudTorrent/blob/master/kickass/torrentTOmega_gdrive%20-%20%E6%94%B9.ipynb"><img src='https://raw.githubusercontent.com/beiona/pic/master/Sound!%20Euphonium/Yoroizuka%20Mizore.jpg' height="70" alt="Open"/></a></center>
