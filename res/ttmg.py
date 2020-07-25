@@ -461,7 +461,7 @@ class LocalhostRun:
     self.connection=Popen(f"autossh -R 80:localhost:{self.port} {self.id}@ssh.localhost.run -o StrictHostKeyChecking=no -o ServerAliveInterval={self.interval} -o ServerAliveCountMax={self.retries}".split(), stdout=PIPE, stdin=PIPE)
     #print("ssh -R 80:localhost:{self.port} {self.id}@ssh.localhost.run -o StrictHostKeyChecking=no -o ServerAliveInterval={self.interval} -o ServerAliveCountMax={self.retries}")
     try:
-      newAddr = re.findall("http://(.*?.localhost.run)",self.connection.stdout.readline().decode("utf-8"))[0]
+      newAddr = re.findall("http://(.*?.localhost.run)",self.connection.stdout.readline().decode("utf-8"))
       localhostOpenDB[str(self.port)] = newAddr 
       accessSettingFile("localhostDB.json" , localhostOpenDB, v=False)
       return newAddr
